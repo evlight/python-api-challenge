@@ -1,8 +1,0 @@
-#Weather API key info: 
-api_key = 
-
-# Twitter API Key info: 
-consumer_key = 
-consumer_secret = 
-access_token =
-access_token_secret =
